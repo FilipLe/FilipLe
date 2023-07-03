@@ -1,18 +1,28 @@
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="450" height="225"  /></p>
 <p align="center">
-<a href="http://linkedin.com/in/nguyenle04/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-</a>
-<a href="https://www.instagram.com/dailydose.of.python/">
-  <img src="https://img.shields.io/badge/dailydose.of.python-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
-</a>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="370" height="185"/>
 </p>
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<p align="center">
+  <a href="http://linkedin.com/in/nguyenle04/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+    
+  <a href="https://www.instagram.com/dailydose.of.python/">
+    <img src="https://img.shields.io/badge/dailydose.of.python-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
+  </a>
+  
+  <!--
+  <a href="https://filiple.github.io">
+    <img src="https://img.shields.io/badge/Personal_Website-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+  </a>
+  -->
+  
+</p>
+<h2 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h2>
 
 ### :man_technologist: &nbsp;About Me :
-- 🔭 I am from Warsaw, Poland.
-- 🌱 I am a Computer Science Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and part of the Trustee Scholars Program <img src="https://www.atlantapublicschools.us/cms/lib/GA01000924/Centricity/Domain/9710/Cap.gif" width="40">at Boston University.
-- ⚡ <!--In my free time I solve problems on GeeksforGeeks and read tech articles.-->
+- 🔭 I am from Warsaw, Poland 🇵🇱.
+- 🌱 I am a Computer Science Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a minor in Business Administration \& Management 📊 and part of the Trustee Scholars Program <img src="https://www.atlantapublicschools.us/cms/lib/GA01000924/Centricity/Domain/9710/Cap.gif" width="40">at Boston University.
+- ⚡ I am also interested in cars 🚗, travelling ✈️, and working out 💪.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-nguyenle04-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nguyenle04)
 
 ---
@@ -58,12 +68,3 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FilipLe&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipLe&layout=compact&theme=vision-friendly-dark)](https://github.com/FilipLe/github-readme-stats)
-
----
-
-### ✍️ Blog Posts : 
-<!--
-- [How to Create REST APIs with Java and Spring Boot](https://www.twilio.com/blog/create-rest-apis-java-spring-boot)
-- [How to Implement Memoization in React to Improve Performance](https://www.sitepoint.com/implement-memoization-in-react-to-improve-performance/)
-- [How to Create an Impressive GitHub Profile README](https://www.sitepoint.com/github-profile-readme/) BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
