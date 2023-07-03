@@ -10,11 +10,8 @@
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 ### :man_technologist: &nbsp;About Me :
-
-I am a Computer Science Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at Boston University.
-
-- 🔭 <!--I’m working as a Software Engineer and contributing to frontend and backend for building web applications.-->
-- 🌱 <!--Exploring Technical Content Writing.-->
+- 🔭 I am from Warsaw, Poland.
+- 🌱 I am a Computer Science Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and part of the Trustee Scholars Program <img src="https://www.atlantapublicschools.us/cms/lib/GA01000924/Centricity/Domain/9710/Cap.gif" width="40">at Boston University.
 - ⚡ <!--In my free time I solve problems on GeeksforGeeks and read tech articles.-->
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-nguyenle04-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nguyenle04)
 
@@ -51,7 +48,7 @@ I am a Computer Science Student <img src="https://media.giphy.com/media/WUlplcMp
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/PPTX-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Powerpoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter%20notebook-%23E34F26.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
