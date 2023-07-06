@@ -21,9 +21,8 @@
 
 ### :man_technologist: &nbsp;About Me :
 - 🔭 I am from Warsaw, Poland 🇵🇱.
-- 🌱 I am a Computer Science Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a minor in Business Administration \& Management 📊 and part of the Trustee Scholars Program <img src="https://www.atlantapublicschools.us/cms/lib/GA01000924/Centricity/Domain/9710/Cap.gif" width="40">at Boston University.
+- 🌱 I am a Computer Science Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a minor in Business 📊 and a Trustee Scholar 👨‍🏫 at Boston University.
 - ⚡ I am also interested in cars 🚗, travelling ✈️, and working out 💪.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-nguyenle04-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nguyenle04)
 
 ---
 
