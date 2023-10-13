@@ -21,7 +21,7 @@
 
 ### :man_technologist: &nbsp;About Me :
 - 🔭 I am from Warsaw, Poland 🇵🇱.
-- 🌱 I am a Computer Science Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and a Trustee Scholar 👨‍🏫 at Boston University.
+- 🌱 I am a Computer Science Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and a Trustee Scholar 👨‍🏫 at Boston University 🇺🇸.
 - ⚡ I am also interested in cars 🚗, travelling ✈️, and working out 💪.
 
 ---
