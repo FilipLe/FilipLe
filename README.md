@@ -19,6 +19,7 @@
 </p>
 <h2 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h2>
 
+<!--
 ### :man_technologist: &nbsp;About Me :
 - 🔭 I am from Warsaw, Poland 🇵🇱.
 - 🌱 I am a Computer Science Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and a Trustee Scholar 👨‍🏫 at Boston University 🇺🇸.
@@ -55,6 +56,6 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter%20notebook-%23E34F26.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
-
+-->
 ### 🔥 &nbsp; My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipLe&layout=compact&theme=vision-friendly-dark)](https://github.com/FilipLe/github-readme-stats)
