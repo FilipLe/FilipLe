@@ -59,6 +59,6 @@
 -->
 ### 🔥 &nbsp; My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipLe&layout=compact&theme=vision-friendly-dark)](https://github.com/FilipLe/github-readme-stats)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FilipLe&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FilipLe&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FilipLe&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FilipLe&theme=nord_dark)
